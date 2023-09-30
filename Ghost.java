@@ -1,7 +1,6 @@
 package pokemon;
 import java.util.Random;
     class Ghost extends Pokemon {
-
     private String total;
     public Ghost(String name, String type) {
         super(name, type);
